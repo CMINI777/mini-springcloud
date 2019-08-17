@@ -13,12 +13,13 @@
         <module>eureka-client</module>
         <module>rest-template</module>
         <module>consumer</module>
+        <module>zuul</module>
     </modules>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.1.7.RELEASE</version>
+        <version>2.0.7.RELEASE</version>
         <relativePath/>
     </parent>
 
