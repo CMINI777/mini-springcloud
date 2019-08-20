@@ -12,7 +12,7 @@
 ├── consumer                 # 服务消费者
 ├── eureka-client            # 服务提供者
 ├── eureka-server            # 注册中心
-├── feign                    # 声明式接口调用（测试熔断）
+├── feign                    # 声明式接口调用（负载均衡、熔断）
 ├── hystrix                  # 容错机制
 ├── native-config-client     # 本地配置 客户端
 ├── native-config-server     # 本地配置 服务端
